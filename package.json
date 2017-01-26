@@ -1,0 +1,37 @@
+{
+  "name": "mvc-skeleton-node.js",
+  "version": "1.0.0",
+  "description": "mvc architecture for node.js project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SombreroElGringo/MVC-Skeleton-Node.js.git"
+  },
+  "keywords": [
+    "mvc",
+    "node.js",
+    "controllers",
+    "views",
+    "modules",
+    "Model View Controller"
+  ],
+  "author": "SombreroElGringo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SombreroElGringo/MVC-Skeleton-Node.js/issues"
+  },
+  "homepage": "https://github.com/SombreroElGringo/MVC-Skeleton-Node.js#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.16.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.15.0",
+    "method-override": "^2.3.7",
+    "node-sass-middleware": "^0.11.0",
+    "pug": "^2.0.0-beta9"
+  }
+}
